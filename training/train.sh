@@ -1,0 +1,1 @@
+python3 ../MeloTTS/melo/preprocess_text.py --metadata ./matthew/metadata.list
